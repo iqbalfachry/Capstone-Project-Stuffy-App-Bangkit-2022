@@ -7,7 +7,7 @@
 
 # Table of Contents
 1. [Meet the Team](#Meet-the-Team)
-2. [About Next Parking](#About-Next-Parking)   
+2. [About Stuffy](#About-Stuffy)   
 3. [Highlight Features](#Highlight-Features)
 4. [Products](#Products)
     1. Android Application
