@@ -1,8 +1,5 @@
 # Capstone-Project-Stuffy-App-Bangkit-2022
-Link Repository
-- [Android](https://github.com/iqbalfachry/Stuffy)
-- API
-- ML
+
 <p align="center">
   <h1 align="center">Next Parking</h1>
   <h3 align="center">Pay, save and track your parking. </h3>
