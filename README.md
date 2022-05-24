@@ -117,7 +117,7 @@ What we use ?
 ## REST API
 ![node-badge] ![sql-badge] 
 
-We are using **NodeJS** with **Express** Framework and **PostgreSQL** as our development technology stack. This REST API
+We are using **NodeJS** with **Express** Framework and **Firestore** as our development technology stack. This REST API
 is used to support our Android Application.
 
 
