@@ -29,7 +29,7 @@
 
 # About Stuffy
 
-Stuffy’s Stuffy emphasizes cashless, paperless, and touchless transactions within the parking service system. It utilizes machine learning to detect the license plate number of the vehicle.
+Stuffy’s Stuffy App make you can share the stuff waste for free
 
 # Highlight Features
 
