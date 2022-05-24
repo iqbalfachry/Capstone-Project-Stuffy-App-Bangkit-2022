@@ -36,11 +36,9 @@ Stuffy’s Stuffy emphasizes cashless, paperless, and touchless transactions wit
 Here are our for our highlighted features:
 
 ```
-1. Car Plate Detection
-2. Car Plate Number Reader
-3. Real Time Notifaction Transaction
-4. Top Up Simulation
-5. Payment Security
+1. Share Free Stuff
+2. Detect Stuff Category And Condition
+
 ```
 
 # Products
@@ -54,7 +52,7 @@ Link to each of our repository:
 ## Android
 ![kotlin-badge] ![firebase-badge]
 
-<img width="1080" alt="Instagram post - 1 (1)" src="https://user-images.githubusercontent.com/50267658/120613025-05f91500-c480-11eb-99ce-67d3ff792875.png">
+![image](https://user-images.githubusercontent.com/50267658/120593219-5b75f780-c469-11eb-8568-f29f5d3892bd.png)
 
 ### Main Feature
 
