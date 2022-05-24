@@ -22,14 +22,14 @@
 | :--------------------:      | :--------: | :----------------: | 
 |   Nevindra Ibnazhifi        |  M0090939  |  Machine Learning  | 
 |   Sekar Larasati Muslimah   |  M0090939  |  Machine Learning  |   
-|  Muhammad Iqbal Fachry      |  A2112055  | Mobile Development |       
+|  Muhammad Iqbal Fachry Krisbudiana      |  A2308F2647  | Mobile Development |       
 |  Sahir Syatha               |  A0090941  | Mobile Development |         
 |     Akhdan Muhardi          |  C0040284  |  Cloud Computing   |          
 |          Ledy               |  C1881900  |  Cloud Computing   |              
 
-# About Next Parking
+# About Stuffy
 
-NextInt’s Smart Parking emphasizes cashless, paperless, and touchless transactions within the parking service system. It utilizes machine learning to detect the license plate number of the vehicle.
+Stuffy’s Stuffy emphasizes cashless, paperless, and touchless transactions within the parking service system. It utilizes machine learning to detect the license plate number of the vehicle.
 
 # Highlight Features
 
