@@ -99,12 +99,12 @@ MVVM with Clean Architechture for Easy to navigate, Maintainable and Testable co
 
 We have these processes that will running in the cloud. In this development we use simulation that will run like this:
 
-![image](images/payment_flow.png)
+![image](payment_flow.png)
 
 ## Cloud Computing
 ![nginx-badge]
 
-![image](images/arsitektur.png)
+![image](arsitektur.png)
 
 Why we use Cloud ?
 - Low entry cost
