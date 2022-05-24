@@ -16,7 +16,7 @@
 
 # Meet the Team
 ![badge](https://img.shields.io/badge/Team-Stuffy-blue)
-![id-badge](https://img.shields.io/badge/ID%20Team-C22-PS089-blue)
+![id-badge](https://img.shields.io/badge/ID%20Team-C22%20PS089-blue)
 
 |         Member              | Student ID |        Path        |
 | :--------------------:      | :--------: | :----------------: | 
