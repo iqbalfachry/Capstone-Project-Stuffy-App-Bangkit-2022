@@ -20,12 +20,12 @@
 
 |         Member              | Student ID |        Path        |
 | :--------------------:      | :--------: | :----------------: | 
-|   Nevindra Ibnazhifi        |  M0090939  |  Machine Learning  | 
-|   Sekar Larasati Muslimah   |  M0090939  |  Machine Learning  |   
+|   Azizah Azzahra        |  M2128F1567  |  Machine Learning  | 
+|   Ummi Sri Rahmadhani   |  M2308F2650  |  Machine Learning  |   
 |  Muhammad Iqbal Fachry Krisbudiana      |  A2308F2647  | Mobile Development |       
-|  Sahir Syatha               |  A0090941  | Mobile Development |         
-|     Akhdan Muhardi          |  C0040284  |  Cloud Computing   |          
-|          Ledy               |  C1881900  |  Cloud Computing   |              
+|  Sidiq Satria Tama              | A2296F2508  | Mobile Development |         
+|     Nurul Laili        |  C2308F2644  |  Cloud Computing   |          
+|         Rima Tsaniyah Amilatus Sholihah              |  C2296F2511  |  Cloud Computing   |              
 
 # About Stuffy
 
