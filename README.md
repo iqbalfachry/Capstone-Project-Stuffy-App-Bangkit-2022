@@ -1,8 +1,7 @@
-# Capstone-Project-Stuffy-App-Bangkit-2022
 
 <p align="center">
-  <h1 align="center">Next Parking</h1>
-  <h3 align="center">Pay, save and track your parking. </h3>
+  <h1 align="center">Stuffy App</h1>
+  <h3 align="center">Share your stuff for the world </h3>
 
 </p>
 
