@@ -61,14 +61,6 @@ Link to each of our repository:
 <ul>
   <li>Login</li>
   <li>Register</li>
-  <li>Current parking location</li>
-  <li>History parking</li>
-  <li>Parking payment</li>
-  <li>Top up balance</li>
-  <li>History top up</li>
-  <li>Multi vehicle</li>
-  <li>Add vehicle</li>
-  <li>Safety pin</li>
   <li>Image picker</li>
   <li>Push notification</li>
   <li>Logout</li>
