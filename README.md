@@ -120,11 +120,11 @@ is used to support our Android Application.
 
 
 [tensorflow-badge]: https://img.shields.io/badge/Tensorflow-Object%20Detection-FF6F00?style=flat&logo=Tensorflow
-[flask-badge]: https://img.shields.io/badge/REST%20API-NextInt%20API-FF6F00?style=flat&logo=flask
-[kotlin-badge]: https://img.shields.io/badge/Android-NextInt%20Application-FF6F00?style=flat&logo=kotlin
+[flask-badge]: https://img.shields.io/badge/REST%20API-Stuffy%20API-FF6F00?style=flat&logo=flask
+[kotlin-badge]: https://img.shields.io/badge/Android-Stuffy%20Application-FF6F00?style=flat&logo=kotlin
 [firebase-badge]: https://img.shields.io/badge/Android-Notification%20Sender-FF6F00?style=flat&logo=firebase
-[node-badge]: https://img.shields.io/badge/REST%20API-NextInt%20API-FF6F00?style=flat&logo=express
-[sql-badge]: https://img.shields.io/badge/REST%20API-NextInt%20API-FF6F00?style=flat&logo=postgresql
+[node-badge]: https://img.shields.io/badge/REST%20API-Stuffy%20API-FF6F00?style=flat&logo=express
+[sql-badge]: https://img.shields.io/badge/REST%20API-Stuffy%20API-FF6F00?style=flat&logo=postgresql
 
 [nginx-badge]: https://img.shields.io/badge/Cloud%20Computing-Nginx-FF6F00?style=flat&logo=nginx
 [gcp-badge]: https://img.shields.io/badge/Cloud%20Computing-Nginx-FF6F00?style=flat&logo=nginx
