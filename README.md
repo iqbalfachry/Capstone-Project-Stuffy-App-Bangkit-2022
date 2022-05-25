@@ -52,7 +52,7 @@ Link to each of our repository:
 ## Android
 ![kotlin-badge] ![firebase-badge]
 
-![image](frame1.png)
+![image](mockup-all.png)
 
 ### Main Feature
 
