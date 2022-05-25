@@ -52,7 +52,7 @@ Link to each of our repository:
 ## Android
 ![kotlin-badge] ![firebase-badge]
 
-![image](https://user-images.githubusercontent.com/50267658/120593219-5b75f780-c469-11eb-8568-f29f5d3892bd.png)
+![image](frame.png)
 
 ### Main Feature
 
