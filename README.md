@@ -94,7 +94,7 @@ We have these processes that will running in the cloud. In this development we u
 ## Cloud Computing
 ![nginx-badge]
 
-![image](arsitektur.png)
+![image](cloud.jpg)
 
 Why we use Cloud ?
 - Low entry cost
