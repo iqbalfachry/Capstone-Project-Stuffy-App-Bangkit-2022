@@ -89,10 +89,9 @@ MVVM with Clean Architechture for Easy to navigate, Maintainable and Testable co
 
 We have these processes that will running in the cloud. In this development we use simulation that will run like this:
 
-![image](payment_flow.png)
+![image](usecase.jpeg)
 
 ## Cloud Computing
-![nginx-badge]
 
 ![image](cloud.jpg)
 
@@ -104,13 +103,11 @@ Why we use Cloud ?
 
 What we use ?
 - Cloud Service : Google Cloud Platform
-- Compute : E2 VM - Ubuntu20.04
-- VPC: asia-southeast2/a
-- DB : Cloud SQL - PostgreSQL
+- Compute : Cloud Run
+- VPC: europe-west1
+- DB : Mongodb
 - Notification : Firebase
 - Repo : Github
-- Proxy : Nginx
-- Web Server : PM2, Flask
 
 ## REST API
 ![node-badge] ![sql-badge] 
