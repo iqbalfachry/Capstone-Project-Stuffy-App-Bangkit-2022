@@ -47,7 +47,6 @@ Link to each of our repository:
 1. [Mobile Development Repository](https://github.com/iqbalfachry/Stuffy)
 2. [Machine Learning Repository]
 3. [Stuffy REST API](https://github.com/rimatsaniyah/backend)
-4. [Cloud Architecture]
 
 ## Android
 ![kotlin-badge] ![firebase-badge]
