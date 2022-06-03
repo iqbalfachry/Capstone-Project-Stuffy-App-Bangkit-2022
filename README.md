@@ -69,7 +69,7 @@ Link to each of our repository:
   <li>100% Kotlin</li>
   <li>AndroidX</li>
   <li>38 Jetpack Library</li>
-  <li>RX Java</li>
+  <li>Kotlin Flow</li>
   <li>Koin as Dependency Injection</li>
   <li>Firebase Cloud Messaging</li>
   <li>Glide</li>
