@@ -45,7 +45,7 @@ Here are our for our highlighted features:
 
 Link to each of our repository:
 1. [Mobile Development Repository](https://github.com/iqbalfachry/Stuffy)
-2. [Machine Learning Repository]
+2. [Machine Learning Repository](https://github.com/ummisrir/Stuffy-ML)
 3. [Stuffy REST API](https://github.com/rimatsaniyah/backend)
 
 ## Android
